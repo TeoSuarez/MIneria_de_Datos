@@ -1,1 +1,4 @@
 # MIneria_de_Datos
+Ejercicios1_1806069
+MapaMental_1806069
+Resumenes_1806069
