@@ -8,5 +8,6 @@
 
 [Resumenes 1](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/Resumenes_1806069.pdf)
 
+[Mapa Mental 2](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/MapaMental_2_1806069.pdf)
 
 
