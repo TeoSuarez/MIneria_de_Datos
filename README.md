@@ -10,4 +10,4 @@
 
 [Mapa Mental 2](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/MapaMental_2_1806069.pdf)
 
-
+[Analisis Base de Datos](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/AnalisisBD_1806069.pdf)
