@@ -12,4 +12,4 @@
 ## FASE II
 [Analisis Base de Datos](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/AnalisisBD_1806069.pdf)
 
-[Ejercicios de Python (Basicos)](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/PythonBasico_1806069.ipynb)
+[Ejercicios de Python (Basicos)](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/PythonBasico_1806069%20(2).ipynb)
