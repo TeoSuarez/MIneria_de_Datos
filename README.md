@@ -16,6 +16,7 @@
 
 [Avance 1 PIA](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/Avance1-PIA_14_002.pdf) 
 
+[Ejercicio de limpieza y visualizacion de datos](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/AvancePIA_II_002_14.ipynb) 
 
-
+## Fase 3
 [Avance 2 PIA](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/AvancePIA_II_002_14.ipynb) 
