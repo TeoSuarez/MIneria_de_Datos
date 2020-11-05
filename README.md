@@ -15,3 +15,7 @@
 [Ejercicios de Python (Basicos)](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/PythonBasico_1806069%20(2).ipynb)
 
 [Avance 1 PIA](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/Avance1-PIA_14_002.pdf) 
+
+
+
+[Avance 2 PIA](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/AvancePIA_II_002_14.ipynb) 
