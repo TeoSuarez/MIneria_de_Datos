@@ -19,4 +19,4 @@
 [Ejercicio python mineria de datos (Manipulazion y visualizacion)](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/Ejercicio%20limpieza%20de%20datos%20y%20visualizacion.ipynb) 
 
 ## Fase 3
-[Avance 2 PIA (Aun incompleto)](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/AvancePIA_II_002_14.ipynb) 
+[Avance 2 PIA](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/AvancePIA_ll_002_14.ipynb) 
