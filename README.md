@@ -20,3 +20,5 @@
 
 ## Fase 3
 [Avance 2 PIA](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/AvancePIA_ll_002_14.ipynb) 
+
+[PIA (Poster)](https://github.com/TeoSuarez/Mineria-De-Datos/blob/master/PIA_Equipo14_Grupo02.pdf) 
